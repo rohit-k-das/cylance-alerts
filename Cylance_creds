@@ -1,0 +1,5 @@
+[Settings]
+Slackbot_Url = http://example.com
+Cylance_Application_ID =
+Cylance_Secret =
+Cylance_Tenant_ID =
